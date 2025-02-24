@@ -1,0 +1,28 @@
+{
+    "system": {
+        "name": "MySystem",
+        "version": "1.0.0",
+        "author": "Your Name",
+        "license": "MIT"
+    },
+    "settings": {
+        "theme": "dark",
+        "language": "en-US",
+        "autoUpdate": true
+    },
+    "network": {
+        "hostname": "localhost",
+        "port": 8083,
+        "protocol": "http"
+    },
+    "database": {
+        "type": "sqlite",
+        "name": "mydatabase.db",
+        "user": "admin",
+        "password": "password123"
+    },
+    "logging": {
+        "level": "info",
+        "file": "/var/log/mysystem.log"
+    }
+}
