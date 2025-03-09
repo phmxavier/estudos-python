@@ -1,0 +1,21 @@
+ID_Venda,Data,Cliente,Produto,Quantidade,Preço_Unitário,Total_Venda,Região
+1,2024-06-15,João Silva,Smartphone,2,1200,2400,Sudeste
+2,2024-07-20,Maria Oliveira,Notebook,1,2500,2500,Sul
+3,2024-08-05,Pedro Santos,Tablet,3,800,2400,Nordeste
+4,2024-09-10,Ana Souza,Impressora,1,500,500,Centro-Oeste
+5,2024-10-25,Ricardo Pereira,Fone de Ouvido,5,100,500,Sudeste
+6,2024-11-30,Juliana Lima,Mouse,2,50,100,Sul
+7,2024-12-15,Fernando Costa,Teclado,1,200,200,Nordeste
+8,2025-01-20,Amanda Rocha,Monitor,1,900,900,Centro-Oeste
+9,2025-02-05,Gabriel Mendes,Caixa de Som,3,150,450,Sudeste
+10,2024-06-10,Larissa Barbosa,Webcam,2,300,600,Sul
+11,2024-07-25,Lucas Ribeiro,SSD,1,400,400,Nordeste
+12,2024-08-30,Camila Alves,Pen Drive,4,80,320,Centro-Oeste
+13,2024-09-15,Bruno Gomes,Roteador,1,600,600,Sudeste
+14,2024-10-20,Patrícia Carvalho,Cabo HDMI,2,30,60,Sul
+15,2024-11-05,Vinícius Melo,Adaptador USB,3,40,120,Nordeste
+16,2024-12-10,Letícia Barros,Carregador Portátil,1,250,250,Centro-Oeste
+17,2025-01-25,Rafael Rodrigues,Suporte para Notebook,2,70,140,Sudeste
+18,2025-02-10,Mariana Ferreira,Cooler para Notebook,1,180,180,Sul
+19,2024-06-20,Thiago Castro,Pasta para Notebook,3,90,270,Nordeste
+20,2024-07-15,Isabela Nunes,Mochila para Notebook,1,350,350,Centro-Oeste
